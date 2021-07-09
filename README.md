@@ -4,7 +4,7 @@
 
 PS:视频来自央视新闻B站
 
-[![Bilibili Video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](//player.bilibili.com/player.html?aid=716545006&bvid=BV18X4y1w7qx&cid=366949522&page=1)
+[![Bilibili Video](https://github.com/kevinfu1717/slowMotion/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210709215259.jpg?raw=true)](//player.bilibili.com/player.html?aid=716545006&bvid=BV18X4y1w7qx&cid=366949522&page=1)
 
 
 
