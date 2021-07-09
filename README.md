@@ -515,4 +515,9 @@ dain.run(path,slow_rate,videoIndex,slowIndex)
 ## 5.2 版权
 特此声明，项目中所有视频版权均属原作者（shijinsai.mp4=>央视新闻B站、huaxue.mp4=>抖音原作者），此处只为展示技术展示。
 
-PS：aistudio项目：https://aistudio.baidu.com/aistudio/projectdetail/2074969 （给予需要白嫖算力运行的同学，可以免费用V100跑，尽管是V100也还是要些时间的）
+## 5.3 其他
+
+aistudio项目地址：https://aistudio.baidu.com/aistudio/projectdetail/2074969 （给予需要白嫖算力运行的同学，可以免费用V100跑，尽管是V100也还是要些时间的）
+
+
+b站视频地址：https://www.bilibili.com/video/BV18X4y1w7qx?zw
