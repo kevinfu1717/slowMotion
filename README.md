@@ -4,7 +4,7 @@
 
 PS:视频来自央视新闻B站
 
-HTML('<iframe src="//player.bilibili.com/player.html?aid=716545006&bvid=BV18X4y1w7qx&cid=366949522&page=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen" width="600" height="400"> </iframe>')
+[![Bilibili Video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](//player.bilibili.com/player.html?aid=716545006&bvid=BV18X4y1w7qx&cid=366949522&page=1)
 
 
 
@@ -514,3 +514,5 @@ dain.run(path,slow_rate,videoIndex,slowIndex)
 
 ## 5.2 版权
 特此声明，项目中所有视频版权均属原作者（shijinsai.mp4=>央视新闻B站、huaxue.mp4=>抖音原作者），此处只为展示技术展示。
+
+PS：aistudio项目：https://aistudio.baidu.com/aistudio/projectdetail/2074969 （给予需要白嫖算力运行的同学，可以免费用V100跑，尽管是V100也还是要些时间的）
